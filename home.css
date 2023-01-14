@@ -7,6 +7,28 @@
   list-style-type: none;
   /* outline: 2px solid red; */
 }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+/* Coming soon*/
+h1{
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 100px;
+    text-align: center;
+    color: #000000;
+}
+
+/*coming soon paragraph*/
+p{
+    color:#5D5F63;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 20px;
+    margin-left: 20px;
+}
+
+
 
 :root {
   width: 99.999%;
@@ -181,4 +203,34 @@ p {
 .social ul li a img:hover {
   background: green;
   border-radius: 50%;
+}
+.input_form {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+width: 90%;
+max-width: 600px;
+display: flex;
+justify-content: space-between;
+/* align-items: center; */
+padding: 5px 10px;
+border-radius: 20px;
+
+}
+
+.wrapper input {
+flex: 1;
+border: none;
+outline: none;
+}
+
+.wrapper button {
+padding: 10px 20px;
+background: green;
+color: white;
+border-radius: 10px;
+border: none;
+cursor: pointer;
 }
