@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
 
@@ -184,7 +185,8 @@ main{
 
 
 .wrapper .right {
-  width: 100%;
+  width: 50%;
+  margin-top: 0%;
 }
 .wrapper .right img {
   width: 100%;

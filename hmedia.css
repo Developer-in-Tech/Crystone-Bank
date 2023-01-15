@@ -99,3 +99,10 @@ main{
 
 
 }
+@media screen and (max-width: 600px) {
+  article p{
+    margin: 0%;
+  }
+  
+  
+  }
