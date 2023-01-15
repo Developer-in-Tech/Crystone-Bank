@@ -103,6 +103,7 @@ label[for="toggle_nav"] {
 article p{
   font-size: 20px;
   margin: 20px 150px;
+  
 }
 article h1{
   font-size: 80px;
@@ -149,13 +150,13 @@ p {
 
 .myform {
   height: 50px;
-  width: 95%;
+  width: 100%;
   max-width: 600px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px;
-  border-radius: 15px;
+  border-radius: 25px;
   border: 2px solid goldenrod;
   gap: 10px;
 }
@@ -176,6 +177,12 @@ p {
 }
 
 /* ============================================= */
+main{
+  margin-left: 40%;
+  
+}
+
+
 .wrapper .right {
   width: 100%;
 }
