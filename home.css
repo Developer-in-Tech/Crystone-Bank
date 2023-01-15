@@ -2,10 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border: 0;
-  outline: none;
-  list-style-type: none;
-  /* outline: 2px solid red; */
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
 
@@ -51,8 +47,9 @@ body {
 }
 
 .top_logo {
-  width: 40%;
+  width: 70%;
   min-width: 100px;
+  margin-left: 100px;
 }
 
 .header__navbar__nav {
@@ -103,13 +100,19 @@ label[for="toggle_nav"] {
 /* ================================================================= */
 /* ================================================================= */
 
-.coming_soon {
-  background: rgb(231, 231, 231);
-  margin: 10px auto;
-  border-radius: 10px;
-  width: 100%;
-  max-width: 1100px;
+article p{
+  font-size: 20px;
+  margin: 20px 150px;
 }
+article h1{
+  font-size: 80px;
+}
+  
+  
+   
+    
+    
+
 
 .wrapper {
   display: grid;
