@@ -106,3 +106,10 @@ main{
   
   
   }
+  @media screen and (max-width: 600px) {
+    .top_logo{
+      margin-left: 0%;
+    }
+    
+    
+    }
