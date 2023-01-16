@@ -103,7 +103,7 @@ main{
 @media screen and (max-width: 600px) {
   article p{
     margin: 0%;
-    font-family: Apple Chancery, cursive;
+    font-family: Comic Sans MS, Comic Sans, cursive;
     font-size: 100%;
     
   }}
