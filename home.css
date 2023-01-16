@@ -15,9 +15,7 @@ h1{
     text-align: center;
     color: #000000;
 }
-@media screen {max-width:600px;
-  
-}
+
 
 /*coming soon paragraph*/
 p{
@@ -147,10 +145,6 @@ p {
 .form_section {
   display: flex;
   justify-content: center;
-  font:https://www.cufonfonts.com/font/ibarra-real-nova-2;
-
-
-
 }
 
 .myform {
@@ -190,7 +184,7 @@ main{
 
 .wrapper .right {
   width: 50%;
-  margin-top: 0%;
+  
 }
 .wrapper .right img {
   width: 100%;
